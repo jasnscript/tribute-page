@@ -24,4 +24,4 @@ User Story #9: The img element should be centered within its parent element.
 
 By the end, will will have demonstrated how to:
     - Use HTML to create the structure of the page
-    - Use CSS flexbox to style the page
+    - Use CSS to style the page
